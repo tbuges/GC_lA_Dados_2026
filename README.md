@@ -1,2 +1,8 @@
 # GC_lA_Dados_2026
-Projetos desenvolvidos durante a trajetória na trilha de lA e Dados. Cursos do GC.
+<p align="center">
+  <img src="./assets/iadados.png" width="700"/>
+</p>
+
+---
+Conquistas
+ <img src="./assets/badges.png" width="700"/>
